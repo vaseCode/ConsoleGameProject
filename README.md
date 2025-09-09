@@ -2,10 +2,10 @@
 
 ## Текстовая консольная игра
 
-![Изображение](file:///C:/Users/User/Pictures/Screenshots/img1.png "Логотип Markdown")
+![Изображение](C:/Users/User/Pictures/Screenshots/img1.png "Логотип Markdown")
 
-![Изображение](file:///C:/Users/User/Pictures/Screenshots/img2.png "Логотип Markdown")
-![Изображение](file:///C:/Users/User/Pictures/Screenshots/img3.png "Логотип Markdown")
+![Изображение](C:/Users/User/Pictures/Screenshots/img2.png "Логотип Markdown")
+![Изображение](C:/Users/User/Pictures/Screenshots/img3.png "Логотип Markdown")
 
 ### Описание игры
 
