@@ -4,7 +4,7 @@
 
 ![Изображение](images/img1.png "Логотип Markdown")
 
-<img src="images/down.png" width="200" height="200">
+      <img src="images/down.png" width="200" height="200">
 
 ![Изображение](images/img2.png "Логотип Markdown")
 
