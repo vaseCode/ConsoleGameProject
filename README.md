@@ -4,7 +4,11 @@
 
 ![Изображение](images/img1.png "Логотип Markdown")
 
+![Изображение](images/down.png "Логотип Markdown")
+
 ![Изображение](images/img2.png "Логотип Markdown")
+
+![Изображение](images/down.png "Логотип Markdown")
 
 ![Изображение](images/img3.png "Логотип Markdown")
 
